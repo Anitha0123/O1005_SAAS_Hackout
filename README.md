@@ -13,3 +13,8 @@ WHY: - (I chose the dataset on men's suicide for several reasons)
 •	It's an important and pressing social issue that often goes overlooked. 
 •	Men's mental health is a topic that hasn't received as much attention as it should, and
 • Suicide rates among men are alarmingly high in many parts of the world. 
+
+
+Declaration: 
+We took data set from kaggle before the hackathon started and did basic data preprocessing and during the hackathon we started working on data analysis and data visualization. When we got errors, we took the help of online sources like stackoverflow, greeksforgreeks. We worked on analysis till the mid review. Once the review is done we are suggested to develop this and make a website which is helpful for future use. Then we started building a basic website to show the trends and analysis of the data we worked on
+
